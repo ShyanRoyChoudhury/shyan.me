@@ -9,6 +9,7 @@ function ContactPage() {
         <span className="underline cursor-pointer text-blue-700">
           Shayan.roy31@gmail.com
         </span>
+        {'.'}
       </p>
     </div>
   );
